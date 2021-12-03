@@ -52,17 +52,3 @@ Goto/Copy current file's online link, supports multiple remote sources in GitHub
 
 
 https://user-images.githubusercontent.com/84168095/144666792-e6e40395-1fdc-44ea-a5a8-a375da12b9d1.mov
-
-
-
-## Name: HTML Snippets
-Full HTML tags including HTML5 Snippets
-
-`<link>` : https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
-
-
-
-https://user-images.githubusercontent.com/84168095/144667451-0732b128-394b-4797-ab49-9fc164788eed.mov
-
-
-
