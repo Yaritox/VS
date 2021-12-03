@@ -36,3 +36,13 @@ Gives format to the code
 
 https://user-images.githubusercontent.com/84168095/144662589-881c2b21-3117-4af0-a934-02cbc9ec6799.mov
 
+## Name: Path Intellisense
+Visual Studio Code plugin that autocompletes filenames
+
+`<link>` : https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+
+
+
+https://user-images.githubusercontent.com/84168095/144665350-bc4f5d0c-63ab-48e6-9e3e-b7c375744baa.mov
+
+
