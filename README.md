@@ -45,4 +45,14 @@ Visual Studio Code plugin that autocompletes filenames
 
 https://user-images.githubusercontent.com/84168095/144665350-bc4f5d0c-63ab-48e6-9e3e-b7c375744baa.mov
 
+## Name: GitLink
+Goto/Copy current file's online link, supports multiple remote sources in GitHub/GitLab/BitBucket/VSTS/DevOps
+
+`<link>` : https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink
+
+
+https://user-images.githubusercontent.com/84168095/144666792-e6e40395-1fdc-44ea-a5a8-a375da12b9d1.mov
+
+
+
 
