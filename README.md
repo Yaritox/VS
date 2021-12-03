@@ -3,6 +3,7 @@
 
 ## Name: Dracula Official
 A dark theme for many editors, shells, and more.
+
 `<link>`: https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
 
 <img width="1193" alt="Captura de Pantalla 2021-12-03 a la(s) 1 45 02 p  m" src="https://user-images.githubusercontent.com/84168095/144663741-9aaf273b-f232-4a4c-87ed-bea9165aec85.png">
