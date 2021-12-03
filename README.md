@@ -59,8 +59,7 @@ Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
 
 `<link>` : https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 
-
-https://user-images.githubusercontent.com/84168095/144669601-bc5b2ae7-4edf-47c7-9b28-09d08a7f0d1b.mov
+https://user-images.githubusercontent.com/84168095/144670026-83cd57b3-ee74-4ad3-9d55-4307339bf15a.mov
 
 
 
