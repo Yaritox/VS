@@ -52,3 +52,16 @@ Goto/Copy current file's online link, supports multiple remote sources in GitHub
 
 
 https://user-images.githubusercontent.com/84168095/144666792-e6e40395-1fdc-44ea-a5a8-a375da12b9d1.mov
+
+
+## Name: ES7 React/Redux/GraphQL/React-Native snippets
+Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
+
+`<link>` : https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
+
+https://user-images.githubusercontent.com/84168095/144669601-bc5b2ae7-4edf-47c7-9b28-09d08a7f0d1b.mov
+
+
+
+
