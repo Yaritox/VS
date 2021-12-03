@@ -8,7 +8,9 @@ Works as a DB manager as PHPmyadmin but inside VS code.
 
 
 ## Name: Thunder Client
-It’s a Postman from VS code 
+`<link>` : https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 <img width="1299" alt="Captura de Pantalla 2021-12-03 a la(s) 11 54 19 a  m" src="https://user-images.githubusercontent.com/84168095/144656345-e318e3e9-ce4e-4040-b246-b763a238283a.png">
 
 
+## Name: Prettier - Code formatter
+`<link>` : https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
