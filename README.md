@@ -1,6 +1,15 @@
-# Visual studio extensions 
-
+# Visual studio theme
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
+
+## Name: Dracula Official
+A dark theme for many editors, shells, and more.
+`<link>`: https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
+<img width="1193" alt="Captura de Pantalla 2021-12-03 a la(s) 1 45 02 p  m" src="https://user-images.githubusercontent.com/84168095/144663741-9aaf273b-f232-4a4c-87ed-bea9165aec85.png">
+
+
+# Visual studio extensions 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
+
 
 ## Name: Database Client
 Supports manager databases for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch.
