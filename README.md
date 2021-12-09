@@ -62,5 +62,13 @@ Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
 https://user-images.githubusercontent.com/84168095/144670026-83cd57b3-ee74-4ad3-9d55-4307339bf15a.mov
 
 
+## Name: Auto Rename Tag
+Auto rename paired HTML/XML tag
+
+`<link>` : https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
+
+https://user-images.githubusercontent.com/84168095/145438558-26fd0bd0-46b9-4cb4-aaae-f96b3f0589b9.mov
+
 
 
