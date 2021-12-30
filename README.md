@@ -75,6 +75,6 @@ https://user-images.githubusercontent.com/84168095/145438558-26fd0bd0-46b9-4cb4-
 ## Name: vscode-styled-components
 Add to the styled react components a visual as CSS documents
 
-`<link>` : https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
+`<link>` : https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
 
 <img width="1680" alt="Captura de Pantalla 2021-12-09 a la(s) 10 49 50 a  m" src="https://user-images.githubusercontent.com/84168095/145440030-3435ffb6-760e-4eb0-b2ce-78923a7f7203.png">
