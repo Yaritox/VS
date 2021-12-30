@@ -78,3 +78,10 @@ Add to the styled react components a visual as CSS documents
 `<link>` : https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
 
 <img width="1680" alt="Captura de Pantalla 2021-12-09 a la(s) 10 49 50 a  m" src="https://user-images.githubusercontent.com/84168095/145440030-3435ffb6-760e-4eb0-b2ce-78923a7f7203.png">
+
+## Name: GitLens — Git supercharged
+Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+`<link>` : https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+<img width="1680" alt="Captura de Pantalla 2021-12-30 a la(s) 1 58 10 p  m" src="https://user-images.githubusercontent.com/84168095/147784533-3d6d71c0-7582-484c-b7fe-a0938e32acbd.png">
+
