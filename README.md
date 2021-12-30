@@ -81,6 +81,7 @@ Add to the styled react components a visual as CSS documents
 
 ## Name: GitLens — Git supercharged
 Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+
 `<link>` : https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 <img width="1680" alt="Captura de Pantalla 2021-12-30 a la(s) 1 58 10 p  m" src="https://user-images.githubusercontent.com/84168095/147784533-3d6d71c0-7582-484c-b7fe-a0938e32acbd.png">
