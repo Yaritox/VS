@@ -50,6 +50,13 @@ Visual Studio Code plugin that autocompletes filenames
 
 https://user-images.githubusercontent.com/84168095/144665350-bc4f5d0c-63ab-48e6-9e3e-b7c375744baa.mov
 
+## Name: Bookmarks
+Mark lines and jump to them
+`<link>` : https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
+
+![Captura de Pantalla 2022-05-13 a la(s) 9 38 21 a m](https://user-images.githubusercontent.com/84168095/168307432-971ae538-31a7-44f6-9b5b-583c4eebc553.png)
+
+
 # GIT - EXTENSIONS
 
 ## Name: GitLink
@@ -58,7 +65,7 @@ Goto/Copy current file's online link, supports multiple remote sources in GitHub
 `<link>` : https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink
 
 
-https://user-images.githubusercontent.com/84168095/144666792-e6e40395-1fdc-44ea-a5a8-a375da12b9d1.mov
+
 
 ## Name: GitLens — Git supercharged
 Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
